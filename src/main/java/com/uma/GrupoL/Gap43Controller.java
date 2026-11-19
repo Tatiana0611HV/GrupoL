@@ -8,6 +8,7 @@ public class Gap43Controller {
 
     @GetMapping("/gap43")
     public String mostrarInformacion() {
-        return "Sistema GAP-43 funcionando correctamente";
+        return "Biosensor GAP-43 ha funcionando correctamente";
     }
 }
+
