@@ -1,4 +1,5 @@
-betelhem-asnake gelan oda :)
+betelhem-asnake gelan oda 
+
 Lucía Corral Martín 
 
 Tatiana Huanca Valda 
