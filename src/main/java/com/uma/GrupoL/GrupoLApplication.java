@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GrupoLApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(GrupoLApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(GrupoLApplication.class, args);
+    }
 }
